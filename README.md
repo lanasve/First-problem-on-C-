@@ -1,2 +1,3 @@
-# First-problem-on-C#-
-33 problems in one programm. My first C# programm in Lexicon on 
+# Multi-problem-on-C#-
+33 tasks in one program
+
